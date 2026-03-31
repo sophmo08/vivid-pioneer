@@ -5,11 +5,11 @@ authors:
   - Benjamin Korman
   - Anna Apostolidou
   - Claudia Diehl
-  - Sebastijan Koos
+  - Sebastian Koos
   - Elisabeth Maué
   - Sophie Moser
   - Max Reinwald
-  - Sandra Schumann
+  - Stefan Schumann
 date: '2023-01-01'
 publishDate: '2023-01-01'
 publication_types:
