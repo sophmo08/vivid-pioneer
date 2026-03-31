@@ -1,3 +1,4 @@
+---
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
@@ -157,3 +158,4 @@ awards:
     date: "2022-02-01"
     summary: Award for best bachelor thesis on diversity (2,000€).
     icon: hero/trophy
+---
