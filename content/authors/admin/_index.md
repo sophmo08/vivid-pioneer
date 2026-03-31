@@ -1,0 +1,159 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Sophie Moser
+  given: Sophie
+  family: Moser
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+postnominals:
+  - PhD
+status:
+  icon: "📊"
+role: Post-Doctoral Researcher
+bio: |
+  I investigate how demographic characteristics — such as gender, age, or
+  occupational background — shape employees' experiences and outcomes at work.
+  I am especially interested in how workplace processes and experiences generate
+  systematic inequalities in compensation, career trajectories, and health —
+  across genders, age groups, and occupational boundaries.
+
+  A central question in my work is what drives or reduces these disparities:
+  how leadership behavior, organizational practices, and legal regulations
+  contribute to — or help dismantle — inequality in the workplace. This includes,
+  for example, the role of DEI policies, transparency regulations, and managerial
+  decision-making across career stages.
+
+  To answer these questions, I draw on a range of quantitative methods, including
+  multilevel modelling, longitudinal panel data analysis, experimental designs,
+  and machine learning techniques such as natural language processing. My work
+  has been recognized with the William H. Newman Award at the Academy of
+  Management and the Best Student Paper Award from the DEI Division.
+affiliations:
+  - name: University of Konstanz
+    url: https://www.uni-konstanz.de/
+links:
+  - icon: at-symbol
+    url: mailto:sophie.moser@uni-konstanz.de
+    label: E-mail Me
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sophie-moser
+  - icon: academicons/google-scholar
+    url: https://scholar.google.de/citations?user=M8-Q_zgAAAAJ&hl=de
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-5593-3092
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Sophie-Moser-4
+interests:
+  - Gender Inequality at Work
+  - Demographic Dissimilarity
+  - Compensation & Careers
+  - Intersectionality
+  - Quantitative Methods & Multilevel Modelling
+education:
+  - degree: PhD Social and Behavioral Sciences
+    institution: University of Konstanz
+    start: 2022-10-01
+    end: 2026-04-30
+    summary: |
+      Dissertation on gender inequality at work, supervised by Prof. Florian Kunze.
+      Part of the Cluster of Excellence "The Politics of Inequality".
+  - degree: MA Politics and Management (with distinction)
+    institution: University of Konstanz
+    start: 2020-10-01
+    end: 2022-09-30
+    summary: |
+      Average grade: 1.0; Thesis grade: 1.0. Award for best master's degree.
+      Thesis: "Starting out in a gender-atypical occupation: Understanding negative
+      work event trajectories of male and female tokens and their impact on
+      performance and withdrawal."
+  - degree: BA Politics and Public Administration (with distinction)
+    institution: University of Konstanz
+    start: 2016-10-01
+    end: 2020-03-31
+    summary: |
+      Average grade: 1.3; Thesis grade: 1.0.
+      Thesis: "Gender-personality faultlines in top management teams and firm
+      performance: Perceived team unity and team decision quality as mediators."
+experience:
+  - role: Post-Doctoral Researcher
+    org: Cluster of Excellence "The Politics of Inequality", University of Konstanz
+    start: 2026-01-01
+    summary: |
+      Project "Health, Ageing, and Work". Research on workplace inequality
+      and demographic dissimilarity.
+  - role: Doctoral Researcher
+    org: Chair of Organizational Behavior & Cluster of Excellence, University of Konstanz
+    start: 2022-10-01
+    end: 2025-12-31
+    summary: |
+      Project "Integration at Work". Dissertation research on gender inequality,
+      pay discrimination, and DEI goals.
+  - role: Visiting Scholar
+    org: IESE Business School Madrid
+    start: 2025-02-01
+    end: 2025-04-30
+    summary: |
+      Mentor: Prof. Dr. Marta Elvira. Research on intersectionality and
+      migrant women's pay disadvantage.
+skills:
+  - name: Methods
+    items:
+      - label: Multilevel Modelling (HLM)
+        level: 5
+      - label: Panel Data Analysis
+        level: 5
+      - label: Experimental Design
+        level: 4
+      - label: Natural Language Processing
+        level: 4
+  - name: Software
+    items:
+      - label: Stata
+        level: 5
+      - label: R
+        level: 5
+      - label: Python
+        level: 5
+      - label: SPSS
+        level: 4
+      - label: SQL
+        level: 4
+languages:
+  - name: German
+    level: 5
+    label: Native
+  - name: English
+    level: 5
+    label: Fluent
+  - name: Spanish
+    level: 2
+    label: Basic
+awards:
+  - title: Add-on Fellowship for Interdisciplinary Science & Transfer
+    awarder: Joachim Herz Foundation
+    date: "2025-11-01"
+    summary: Fellowship supporting innovative interdisciplinary research (15,000€).
+    icon: hero/trophy
+  - title: WK Personal Best Paper Award
+    awarder: German Journal of Human Resource Management / VHB
+    date: "2025-09-01"
+    summary: Winner in the category "Strong Scientific Contribution".
+    icon: hero/trophy
+  - title: William H. Newman Award
+    awarder: Academy of Management
+    date: "2024-08-01"
+    summary: Best Academy of Management Annual Meeting Paper based on a Dissertation.
+    icon: hero/trophy
+  - title: Best Student Paper Award
+    awarder: DEI Division, Academy of Management
+    date: "2024-08-01"
+    summary: Awarded at the Academy of Management Annual Meeting in Chicago.
+    icon: hero/trophy
+  - title: Roland Berger Award
+    awarder: Roland Berger
+    date: "2022-02-01"
+    summary: Award for best bachelor thesis on diversity (2,000€).
+    icon: hero/trophy
