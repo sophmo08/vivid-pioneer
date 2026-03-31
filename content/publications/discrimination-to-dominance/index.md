@@ -1,5 +1,5 @@
 ---
-title: 'From Discrimination to Dominance? How Status Threat is Linked to Male Refugees' Gender Beliefs'
+title: "From Discrimination to Dominance? How Status Threat is Linked to Male Refugees' Gender Beliefs"
 authors:
   - Benjamin Korman
   - Sophie Moser
