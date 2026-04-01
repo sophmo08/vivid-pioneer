@@ -4,8 +4,8 @@ authors:
   - Anna Apostolidou
   - me
   - Florian Kunze
-date: '2026-01-01'
-publishDate: '2026-01-01'
+date: '2026-03-06'
+publishDate: '2026-03-06'
 publication_types:
   - article-journal
 publication: '*PERSONALquarterly*'
