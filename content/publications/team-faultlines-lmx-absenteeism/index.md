@@ -9,7 +9,7 @@ publishDate: '2022-01-01'
 publication_types:
   - article-journal
 publication: '*European Journal of Work and Organizational Psychology*'
-publication_short: '*EJWOP*'
+publication_short: '*European Journal of Work and Organizational Psychology*'
 volume: '32'
 issue: '2'
 pages: '234–244'
