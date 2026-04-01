@@ -6,6 +6,7 @@ type: course
 tags:
   - Supervision
   - Inequality
+  - Course
 image:
   caption: ''
 ---
