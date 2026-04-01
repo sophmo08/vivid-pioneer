@@ -4,8 +4,7 @@ summary: I (co-)supervise Bachelor's and Master's theses on workplace inequality
 date: 2022-01-01
 type: course
 tags:
-  - Course
-  - Thesis Supervision
+  - Supervision
   - Inequality
 image:
   caption: ''
