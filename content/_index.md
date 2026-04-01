@@ -28,11 +28,9 @@ sections:
       background:
         gradient_mesh:
           enable: true
-
       # Name heading sizing to accommodate long or short names
       name:
         size: md # Options: xs, sm, md, lg (default), xl
-
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -42,25 +40,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I my work, I investigate how demographic characteristics — such as gender, age, or 
-    occupational background — shape employees' experiences and outcomes at work. 
-    I am especially interested in how workplace processes generate systematic 
-    inequalities in compensation, career trajectories, and health.
+        I investigate how demographic characteristics — such as gender, age, or occupational background — shape employees' experiences and outcomes at work. I am especially interested in how workplace processes generate systematic inequalities in compensation, career trajectories, and health.
 
-    A central question in my work is what drives or reduces these disparities: 
-    how leadership behavior, organizational practices, and legal regulations 
-    contribute to — or help reduce — inequality in the workplace. This includes 
-    the role of DEI policies, transparency regulations, and managerial 
-    decision-making across career stages. I draw on quantitative methods including 
-    multilevel modelling, longitudinal panel data analysis, experimental designs, 
-    and natural language processing.
+        A central question in my work is what drives or reduces these disparities: how leadership behavior, organizational practices, and legal regulations contribute to — or help reduce — inequality in the workplace. This includes the role of DEI policies, transparency regulations, and managerial decision-making across career stages. I draw on quantitative methods including multilevel modelling, longitudinal panel data analysis, experimental designs, and natural language processing.
 
-    My work has been recognized with the William H. Newman Award for the best 
-    paper based on a dissertation at the Academy of Management Annual Meeting 
-    and the Best Student Paper Award from the DEI Division.
+        My work has been recognized with the William H. Newman Award for the best paper based on a dissertation at the Academy of Management Annual Meeting and the Best Student Paper Award from the DEI Division.
 
-    If you are interested in collaborating: feel free to reach out!
-    
+        If you are interested in collaborating: feel free to reach out!
     design:
       columns: '1'
   - block: collection
