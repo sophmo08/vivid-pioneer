@@ -9,6 +9,8 @@ tags:
   - Gender Pay Gap
   - Diversity
 ---
+Do migrant women face a compounded pay disadvantage that goes beyond what gender or migration background alone would predict? This study takes a longitudinal perspective to examine how intersecting identities shape wage trajectories over time.
+
 **Stage:** Current fine-tuning for submission
 
 **With:** Marta Elvira (IESE Business School Madrid)
