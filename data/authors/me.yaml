@@ -95,7 +95,7 @@ skills:
       - label: Panel Data Analysis
         level: 5
       - label: Experimental Design
-        level: 3,5
+        level: 4
       - label: Natural Language Processing
         level: 3
   - name: Software
@@ -105,7 +105,7 @@ skills:
       - label: R
         level: 5
       - label: Python
-        level: 4,5
+        level: 4
       - label: SQL
         level: 4
 languages:
