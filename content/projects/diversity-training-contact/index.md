@@ -7,6 +7,8 @@ tags:
   - Diversity
   - Training
 ---
+How should diversity trainings be designed to actually change behavior toward dissimilar colleagues? We investigate this question using a field experiment.
+
 **Stage:** Current fine-tuning for submission
 
 **With:** Sandra Morgenstern and Erika Ni (University of Mannheim)
