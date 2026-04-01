@@ -42,11 +42,25 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I my work, I investigate how demographic characteristics — such as gender, age, or 
+    occupational background — shape employees' experiences and outcomes at work. 
+    I am especially interested in how workplace processes generate systematic 
+    inequalities in compensation, career trajectories, and health.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+    A central question in my work is what drives or reduces these disparities: 
+    how leadership behavior, organizational practices, and legal regulations 
+    contribute to — or help reduce — inequality in the workplace. This includes 
+    the role of DEI policies, transparency regulations, and managerial 
+    decision-making across career stages. I draw on quantitative methods including 
+    multilevel modelling, longitudinal panel data analysis, experimental designs, 
+    and natural language processing.
 
-        Please reach out to collaborate 😃
+    My work has been recognized with the William H. Newman Award for the best 
+    paper based on a dissertation at the Academy of Management Annual Meeting 
+    and the Best Student Paper Award from the DEI Division.
+
+    If you are interested in collaborating: feel free to reach out!
+    
     design:
       columns: '1'
   - block: collection
