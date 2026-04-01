@@ -1,5 +1,5 @@
 ---
-title: Organizations of Tomorrow — Trends, Challenges, Research Methods
+title: Organizations of Tomorrow — Quantitative Research Methods
 summary: An undergraduate seminar on empirical research methods in organizational behavior, covering regression analysis, multilevel modeling, and (quasi-)experimental designs. Students design and conduct their own research projects.
 date: 2025-01-01
 type: course
