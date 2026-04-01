@@ -15,7 +15,6 @@ summary: 'Why might experiencing discrimination lead some individuals to adopt m
 tags:
   - Gender Beliefs
   - Refugees
-  - Status Threat
   - Social Identity Theory
   - Discrimination
 featured: true
