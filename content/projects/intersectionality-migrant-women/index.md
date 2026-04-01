@@ -5,6 +5,7 @@ tags:
   - Work in Progress
   - Intersectionality
   - Migration
+  - Gender Pay Gap
   - Diversity
 ---
 **Stage:** Current fine-tuning for submission
