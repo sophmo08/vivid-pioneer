@@ -106,8 +106,6 @@ skills:
         level: 5
       - label: Python
         level: 4,5
-      - label: SPSS
-        level: 4,5
       - label: SQL
         level: 4
 languages:
