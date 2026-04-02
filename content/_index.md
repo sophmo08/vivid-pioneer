@@ -37,7 +37,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I investigate how demographic characteristics — such as gender, age, or occupational background — shape employees' experiences and outcomes at work. I am especially interested in how workplace processes generate systematic inequalities in compensation, career trajectories, and health.
