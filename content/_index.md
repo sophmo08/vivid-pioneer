@@ -73,7 +73,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Selected Conference Presentations
       filters:
         folders:
           - events
