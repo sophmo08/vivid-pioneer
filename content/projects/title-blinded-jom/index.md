@@ -1,6 +1,7 @@
 ---
 title: "Title blinded for anonymity"
 date: 2026-04-01
+summary: "2nd Round Revise and Resubmit at Journal of Management"
 tags:
   - Work in Progress
   - Gender Dissimilarity
