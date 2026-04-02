@@ -12,6 +12,7 @@ authors:
 tags:
   - Gender
   - Early Career
+  - Diversity
 summary: 'Winner of the 2025 Best Paper Award, Category: Strong Scientific Contribution.'
 ---
 Presented at the German Scientific Commission for Human Resource Management Conference
