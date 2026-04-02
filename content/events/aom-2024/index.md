@@ -13,4 +13,6 @@ tags:
   - Discrimination
 summary: 'Winner of the 2024 William H. Newman Award for the best Academy of Management Annual Meeting paper based on a dissertation.'
 ---
+Presented at the 84th Academy of Management Annual Meeting
+
 **Winner of the 2024 William H. Newman Award for the best Academy of Management Annual Meeting paper based on a dissertation**
