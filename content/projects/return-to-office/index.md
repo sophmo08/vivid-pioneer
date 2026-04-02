@@ -8,6 +8,7 @@ tags:
   - Job Satisfaction
 ---
 How do employees react to return-to-office mandates? This study examines attitudinal and behavioral responses using secondary data.
+
 **Stage:** Current data analysis and draft writing
 
 **With:** Amelie Fischer (University of Konstanz)
