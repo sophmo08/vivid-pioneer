@@ -13,4 +13,6 @@ tags:
   - DEI
 summary: 'Nominated for Best Conference Paper Award.'
 ---
+Presented at the German Scientific Commission for Human Resources Conference
+
 **Nominated for Best Conference Paper Award**
