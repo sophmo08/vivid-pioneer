@@ -14,3 +14,4 @@ tags:
   - Career
 summary: 'Symposium presentation at the 85th Academy of Management Annual Meeting in Copenhagen.'
 ---
+Presented as part of a Symposium at the 85th Academy of Management Annual Meeting
