@@ -1,5 +1,5 @@
 ---
-title: (Co-)Supervision of Bachelor and Master Theses
+title: Supervision of Bachelor and Master Theses
 summary: I (co-)supervise Bachelor's and Master's theses on workplace inequality across disciplines such as Public Administration and Management, Psychology, and Data Science.
 date: 2022-01-01
 type: course
