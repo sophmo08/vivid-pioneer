@@ -2,7 +2,7 @@
 title: "Parity, transparency, family friendliness - how the gender pay gap could get reduced"
 authors:
   - me
-  - Florian Kunze
+  - Prof. Dr. Florian Kunze
 date: '2024-03-06'
 publishDate: '2024-03-06'
 publication_types:
