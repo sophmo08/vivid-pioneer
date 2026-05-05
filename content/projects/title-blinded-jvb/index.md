@@ -11,4 +11,4 @@ tags:
 
 **Journal:** Journal of Vocational Behavior
 
-**With:** Anna Apostolidou and Florian Kunze
+**With:** Dr. Anna Apostolidou and Prof. Dr. Florian Kunze
