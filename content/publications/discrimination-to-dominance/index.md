@@ -1,7 +1,7 @@
 ---
 title: "From Discrimination to Dominance? How Status Threat is Linked to Male Refugees' Gender Beliefs"
 authors:
-  - Benjamin Korman
+  - Dr. Benjamin Korman
   - me
 date: '2026-01-01'
 publishDate: '2026-01-01'
