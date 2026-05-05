@@ -11,4 +11,4 @@ How should diversity trainings be designed to actually change behavior toward di
 
 **Stage:** Current fine-tuning for submission
 
-**With:** Sandra Morgenstern and Erika Ni (University of Mannheim)
+**With:** Dr. Sandra Morgenstern and Erika Ni (University of Mannheim)
