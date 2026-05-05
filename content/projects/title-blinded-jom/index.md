@@ -11,4 +11,4 @@ tags:
 
 **Journal:** Journal of Management (Impact Factor: 9.3; VHB-Ranking: A)
 
-**With:** Florian Kunze
+**With:** Prof. D. Florian Kunze
