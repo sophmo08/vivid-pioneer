@@ -2,8 +2,8 @@
 title: 'Does my leader care about my subgroup? A multilevel model of team faultlines, LMX quality, and employee absenteeism'
 authors:
   - me
-  - Max Reinwald
-  - Florian Kunze
+  - Prof. Dr. Max Reinwald
+  - Prof. Dr. Florian Kunze
 date: '2022-01-01'
 publishDate: '2022-01-01'
 publication_types:
