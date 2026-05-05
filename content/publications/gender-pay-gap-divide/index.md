@@ -2,7 +2,7 @@
 title: "Still a Divide: Why the Gender Pay Gap Persists – and What to Do about It"
 authors:
   - me
-  - Florian Kunze
+  - Prof. Dr. Florian Kunze
 date: '2024-01-01'
 publishDate: '2024-01-01'
 publication_types:
