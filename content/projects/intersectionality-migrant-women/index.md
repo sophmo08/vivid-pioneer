@@ -13,4 +13,4 @@ Do migrant women face a compounded pay disadvantage that goes beyond what gender
 
 **Stage:** Current fine-tuning for submission
 
-**With:** Marta Elvira (IESE Business School Madrid)
+**With:** Prof. Dr. Marta Elvira (IESE Business School Madrid)
