@@ -1,9 +1,9 @@
 ---
 title: "Reducing absenteeism, promoting engagement — How can companies effectively support trainees with a migration background?"
 authors:
-  - Anna Apostolidou
+  - Dr. Anna Apostolidou
   - me
-  - Florian Kunze
+  - Prof. Dr. Florian Kunze
 date: '2026-03-06'
 publishDate: '2026-03-06'
 publication_types:
