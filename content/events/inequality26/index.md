@@ -11,7 +11,7 @@ authors:
 tags:
   - Gender Pay Gap
   - Intersectionality
-summary: 'inner of the Best Poster Award at the In_equality Conference 2026 voted for by the participants at the conference (500€)'
+summary: 'Winner of the Best Poster Award at the In_equality Conference 2026 voted for by the participants at the conference (500€)'
 ---
 Presented at the In_Equality Conference by the Cluster of Excellence "The Politics of Inequality
 
