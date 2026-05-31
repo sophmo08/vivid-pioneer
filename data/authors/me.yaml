@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Sophie Moser
+  display: Dr. Sophie Schellhammer (neé Moser)
   given: Dr. Sophie
-  family: Moser
+  family: Schellhammer (neé Moser)
   alternate: ''
   pronunciation: ''
   pronouns: she/her
