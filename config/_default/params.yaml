@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Dr. Sophie Moser"
+    name: "Dr. Sophie Schellhammer"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: "University of Konstanz, Germany"
     # Schema.org type for structured data
@@ -114,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© 2026 Sophie Moser"
+    notice: "© 2026 Sophie Schellhammer"
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
