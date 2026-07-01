@@ -7,7 +7,7 @@ tags:
   - Gender Dissimilarity
   - Longitudinal Data Analysis
 ---
-**Stage:** 2nd Round Revise and Resubmit
+**Stage:** 3rd Round Revise and Resubmit
 
 **Journal:** Journal of Management (Impact Factor: 9.3; VHB-Ranking: A)
 
