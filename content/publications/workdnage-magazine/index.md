@@ -5,8 +5,8 @@ authors:
   - Prof. Dr. Florian Kunze
   - Prof. Dr. Sebastian Findeisen
   - Elena Gerdiken
-date: '2026-017-27'
-publishDate: '2026-017-27'
+date: '2026-07-27'
+publishDate: '2026-07-27'
 publication_types:
   - report
 publication: '*In_equality Magazine, Cluster of Excellence "The Politics of Inequality"*'
