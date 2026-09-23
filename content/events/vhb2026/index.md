@@ -3,8 +3,8 @@ title: "Understanding Early Exit: A Multilevel Resource Lens on Early-Career Tur
 event: German Scientific Commission for Human Resources Conference
 event_url: ''
 location: Bozen, Italy
-date: '2026-09-24'
-date_end: '2026-09-26'
+date: '2026-09-16'
+date_end: '2026-09-18'
 all_day: true
 authors:
   - me
