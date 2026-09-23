@@ -13,7 +13,6 @@ authors:
 tags:
   - Turnover Intention
   - Early Career
-    
 summary: 'Presented at the German Scientific Commission for Human Resources Conference'
 ---
 Presented at the German Scientific Commission for Human Resources Conference
